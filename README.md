@@ -9,7 +9,7 @@
 
 * DESENVOLVIMENTO FULL STACK
 * Disciplina: RPG0009  - Descobrindo o Java Script
-* Repositorio Git: https://github.com/sergiolinski/Descobrindo o Java Script
+* Repositorio Git: https://github.com/sergiolinski/DescobrindoJavaScript
 <hr>
 
 * [SERGIO DOLINSKI CALDEIRA](https://github.com/sergiolinski) - MATRICULA: 202308936311
