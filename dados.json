@@ -1,0 +1,39 @@
+[
+    {
+        "nome": "Mousse de Maracujá",
+        "ingredientes": [
+            "1 lata de leite condensado",
+            "1 lata de creme de leite sem soro",
+            "1 lata de suco de maracujá"
+            
+        ],
+        "preparo": "Em um liquidificador, bata o creme de leite, o leite condensado e o suco concentrado de maracujá. Em seguida, em uma tigela, despeje a mistura e leve à geladeira por, no mínimo, 4 horas.",
+        "imagem": "https://static.itdg.com.br/images/360-240/8fed8f60d3c8e3990396e2478cbc7f2a/shutterstock-1905617575-1-.jpg",
+        "alt":"Mousse de Maracujá."
+    },
+    {
+        "nome": "Sorvete de Morango",
+        "ingredientes": [
+            "2 caixas de creme de leite",
+            "1 caixa de morango",
+            "1 lata de leite condensado"
+
+        ],
+        "preparo": "Bata os morangos no liquidificador. Misture os Cremes de Leite e os morangos até ficar homogêneo. Adicione o leite condensado e misture. Leve ao congelador por no mínimo 12 horas.",
+        "imagem": "https://adrianagomesnutricionista.com.br/images/sorvete-fit-foto.jpg",
+        "alt": "Sorvete de Morango."
+    },
+    {
+        "nome": "Frango Cremoso",
+        "ingredientes": [
+            "10 filés de frango levemente temperado com sal, pimenta-do-reino e limão",
+            "1 caixinha de creme de leite",
+            "1 lata de milho verde escorrido",
+            "1 pacote de creme de cebola",
+            "1 copo de requeijão"
+        ],
+        "preparo": "Pegue os filés de frango temperadinhos, empane no creme de cebola. Arrume numa assadeira untada. Depois, no liquidificador bata o creme de leite, o milho escorrido e o requeijão, até formar uma mistura homogênea. Jogue essa mistura por cima do filé de frango. Cubra com papel alumínio, e leve ao forno pré-aquecido por 20 minutos. Retire o papel deixe mais 5 minutos para dourar. Sirva com arroz salpicado com salsinha.",
+        "imagem": "https://s2-receitas.glbimg.com/S0N3Xjd3gZ0XdV99o1DI5rt7y-w=/0x0:620x399/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/06/13/17/16/51/485/frango_cremoso.jpg",
+        "alt": "Frango Cremoso."
+    }   
+]
